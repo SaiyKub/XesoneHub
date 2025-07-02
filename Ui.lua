@@ -780,7 +780,7 @@ Light = {
 }
 
 local Library = {
-	Version = "1.2.2",
+	Version = "",
 
 	OpenFrames = {},
 	Options = {},
